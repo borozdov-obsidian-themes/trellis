@@ -1,0 +1,16 @@
+{
+  "name": "borozdov-trellis",
+  "private": true,
+  "description": "A botanist's field journal on warm parchment: dark forest ink for every word, pastel specimen cards for every category.",
+  "license": "MIT",
+  "scripts": {
+    "lint": "stylelint theme.css",
+    "build": "node scripts/build.mjs",
+    "screenshots": "python3 scripts/screenshots.py"
+  },
+  "devDependencies": {
+    "lucide-static": "^1.47.0",
+    "stylelint": "^17.0.0",
+    "stylelint-config-obsidianmd": "^0.1.0"
+  }
+}
