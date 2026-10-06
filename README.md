@@ -45,6 +45,19 @@ specimen cards that callouts and tags are drawn as. Style source: Refero #53 Lat
 - No embedded fonts, so the theme stays well under the directory's size limit
 - No `!important`: every rule can be overridden with a CSS snippet
 
+## Variants
+
+Borozdov Trellis also carries the other 13 themes of the collection's botanical mood. Install the
+[Style Settings](https://github.com/mgmeyers/obsidian-style-settings) plugin, open
+Settings → Style Settings → **Borozdov Trellis** → **Variant**, and pick one: Terrarium, Herbarium, Understory, Voltage, Spruce, Canopy, Tonic, Apothecary, Cultivar, Kite, Atelier, Riverstone and Glacier.
+
+A variant brings that theme's palette in both modes, its fonts, weights and corners, and
+its tag and highlight colours. The layout — callouts, tables, the sidebar — stays
+Trellis's. Fonts a theme embeds on its own aren't carried over; the variant falls back to
+the same system stack. Each theme is still available by itself from its repository.
+
+![Every variant of Borozdov Trellis, dark and light](https://raw.githubusercontent.com/borozdov-obsidian-themes/trellis/main/screenshots/variants.png)
+
 ## Installation
 
 **From the community directory:** Settings → Appearance → Themes → Manage, search for
@@ -65,5 +78,5 @@ MIT — see [LICENSE](LICENSE).
 ботаника на тёплом пергаменте, и тёмный «Loam» — тот же дневник после того, как в
 теплице гаснет свет. Чернила цвета лесной хвои несут любой текст на обоих ликах;
 единственный цвет — пастельные карточки образцов, в которые окрашены выноски и теги.
-Шрифты не встроены. Устанавливается из каталога: Настройки → Оформление → Темы →
+Шрифты не встроены. Через плагин Style Settings в теме есть ещё 13 вариантов — остальные темы коллекции в настроении «ботаника и природа». Устанавливается из каталога: Настройки → Оформление → Темы →
 Настроить → Borozdov Trellis → Установить и применить.
